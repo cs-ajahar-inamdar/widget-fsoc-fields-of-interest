@@ -3,7 +3,7 @@
     "title": "FortiSOC Fields Of Interest",
     "subTitle": "Select fields to display in the detailed view, regardless of the 'Visibility Constraint'",
     "version": "1.0.0",
-    "publishedDate": 1760682732,
+    "published_date": 1760682732,
     "releaseNotes": "unavailable",
     "metadata": {
         "size": "lg",
